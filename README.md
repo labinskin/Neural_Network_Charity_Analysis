@@ -53,4 +53,4 @@ From Alphabet Soup’s business team, Beks received a CSV containing more than 3
 ### Summary
 Overall, the deep learning model did not meet the threshold and underperformed. A threshold of 75% is not particularly high and at it's best it reached 73.02%. I would not recommend using this model, but rather create a better model that would meet and hopefully far surpass the 75% threshold.
 
-Given that the data is binary, we could use a supervised machine learning model, such as Random Forest Classification, combining a large sample of decision trees and evaluating its performance. Random forest should provide more depth and should run faster too.
+Given that the data is binary, we could use a supervised machine learning model, such as Random Forest Classification, combining a large sample of decision trees and evaluating its performance to see if it reaches the 75% threshold. Random forest should provide more depth, as the many trees can combine together to learn, and should run faster too.
